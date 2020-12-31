@@ -1,0 +1,6 @@
+to see:
+level00@SnowCrash:/etc/init.d$ ls | grep "start"
+level11_start
+
+level00@SnowCrash:/etc/init.d$ pwd
+/etc/init.d
