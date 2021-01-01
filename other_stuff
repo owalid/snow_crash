@@ -1,7 +1,1 @@
-level00@SnowCrash:/$ find -type d -name 'level*' 2>/dev/null
-./usr/src/linux-headers-3.2.0-89-generic-pae/include/config/kgdb/low/level
-./var/www/level04
-./var/www/level12
-./rofs/usr/src/linux-headers-3.2.0-89-generic-pae/include/config/kgdb/low/level
-./rofs/var/www/level04
-./rofs/var/www/level12
+find / -name "level*" 2>/dev/null
