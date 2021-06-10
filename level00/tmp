@@ -1,3 +1,5 @@
+find / -user flag00 2>/dev/null
+======================
 cd /rofs/usr/sbin
 ls -al
 un fichier non executable s'appel john
