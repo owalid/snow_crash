@@ -4,3 +4,4 @@
 - Flag03: `qi0maab88jeaj46qoumi7maus`
 - Flag04: `ne2searoevaevoem4ov4ar8ap`
 - Flag05: `viuaaale9huek52boumoomioc`
+- Flag06: `wiok45aaoguiboiki2tuin6ub`
