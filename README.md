@@ -6,6 +6,6 @@
 - Flag05: `viuaaale9huek52boumoomioc`
 - Flag06: `wiok45aaoguiboiki2tuin6ub`
 - Flag07: `fiumuikeil55xe9cu4dood66h`
-- Flag08: `_`
-- Flag09: `_`
+- Flag08: `25749xKZ8L7DkSCwJkT9dyv6f`
+- Flag09: `s5cAJpM8ev6XHw998pRWG728z`
 - Flag10: `_`
