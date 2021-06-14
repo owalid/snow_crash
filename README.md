@@ -5,3 +5,7 @@
 - Flag04: `ne2searoevaevoem4ov4ar8ap`
 - Flag05: `viuaaale9huek52boumoomioc`
 - Flag06: `wiok45aaoguiboiki2tuin6ub`
+- Flag07: `fiumuikeil55xe9cu4dood66h`
+- Flag08: `_`
+- Flag09: `_`
+- Flag10: `_`
