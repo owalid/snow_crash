@@ -1,0 +1,2 @@
+- lol ; getflag > /tmp/pass; ls
+- flag 11: fa6v5ateaw21peobuub8ipe6s
