@@ -5,7 +5,7 @@ Projet introductif à la sécurité en informatique, Snow Crash a pour but de fa
 
 ## Flags
 | N°    | Name    | Flag                        |
-|:======:|=========|=============================|
+|:------:|---------|-----------------------------|
 | Flag00 | Find    | `x24ti5gi3x0ol2eh4esiuxias` |
 | Flag01 | Passwd  | `f2av5il02puano7naaf6adaaf` |
 | Flag02 | Pcap    | `kooda2puivaav1idi4f57q8iq` |
