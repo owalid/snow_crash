@@ -1,3 +1,9 @@
+# Snow Crash
+
+## Description
+Projet introductif à la sécurité en informatique, Snow Crash a pour but de faire découvrir la sécurité dans différents sous-domaines, avec une approche orientée développeur. Vous allez vous familiariser avec plusieurs langages (ASM/perl/php..), développer une certaine logique pour comprendre des programmes inconnus, et ainsi prendre conscience des problèmes liés à de simples erreurs de programmation.
+
+## Flags
 - Flag00: `x24ti5gi3x0ol2eh4esiuxias`
 - Flag01: `f2av5il02puano7naaf6adaaf`
 - Flag02: `kooda2puivaav1idi4f57q8iq`
