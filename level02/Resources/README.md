@@ -7,7 +7,7 @@ from scapy.all import *
 scapy_cap = rdpcap('level02.pcap')
 for packet in scapy_cap:
 	if type(packet[TCP].payload) == scapy.packet.Raw:
-		print(packet[TCP].payload.load.decode())
+		print(packet[TCP].payload.load)
 ```
 - Le retour
 ```
