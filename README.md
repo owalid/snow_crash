@@ -4,7 +4,7 @@
 Projet introductif à la sécurité en informatique, Snow Crash a pour but de faire découvrir la sécurité dans différents sous-domaines, avec une approche orientée développeur. Vous allez vous familiariser avec plusieurs langages (ASM/perl/php..), développer une certaine logique pour comprendre des programmes inconnus, et ainsi prendre conscience des problèmes liés à de simples erreurs de programmation.
 
 ## Flags
-| N°    | Name    | Flag                        |
+| N°    | Name     | Flag                        |
 |:------:|---------|-----------------------------|
 | Flag00 | Find    | `x24ti5gi3x0ol2eh4esiuxias` |
 | Flag01 | Passwd  | `f2av5il02puano7naaf6adaaf` |
@@ -20,3 +20,4 @@ Projet introductif à la sécurité en informatique, Snow Crash a pour but de fa
 | Flag11 | Lua     | `fa6v5ateaw21peobuub8ipe6s` |
 | Flag12 | Perl 2  | `g1qKMiRpXf53AWhDaU7FEkczr` |
 | Flag13 | GetUID  | `2A31L79asukciNyi8uppkEuSx` |
+| Flag14 | GetUID  | `7QiHafiNa3HVozsaXkawuYrTstxbpABHD8CPnHJ` |
