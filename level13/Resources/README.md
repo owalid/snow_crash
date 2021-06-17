@@ -7,14 +7,14 @@ su <user_with_uuid_4242>
 ./level13
 ```
 
-token:
+flag:
 ```
 2A31L79asukciNyi8uppkEuSx
 ```
 
 ================================
 
-- recreate getuid function
+- Recreate getuid function
 ```
 uid_t	getuid(void)
 {
@@ -29,10 +29,14 @@ gcc -shared -fpic lib.c -o libnike.so -m32
 ```
 LD_PRELOAD=./libnike.so ./level13
 ```
+flag:
+```
+2A31L79asukciNyi8uppkEuSx
+```
 
 ================================
 
-- use setuid and excve in c
+- Use setuid and excve in c
 ```
 #include <sys/types.h>
 #include <unistd.h>
@@ -43,4 +47,8 @@ int main()
 	printf("%d\n", setuid(4242));
 	execve("level13", NULL, NULL);
 }
+```
+flag:
+```
+2A31L79asukciNyi8uppkEuSx
 ```

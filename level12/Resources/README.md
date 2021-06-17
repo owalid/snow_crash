@@ -1,4 +1,7 @@
-- cat /tmp/A // executable
+Web resources: 
+- https://www.root-me.org/fr/Challenges/App-Script/Bash-quoted-expression-injection
+
+cat /tmp/A:
 ```
 #!/bin/bash
 
