@@ -1,4 +1,15 @@
+- on crée un script qui print la data de tout les paquets
 ```
+from scapy.all import *
+
+scapy_cap = rdpcap('level02.pcap')
+for packet in scapy_cap:
+	if type(packet[TCP].payload) == scapy.packet.Raw:
+		print(packet[TCP].payload.load.decode())
+```
+- Le retour
+```
+42 : Password: 
 44 : f
 46 : t
 48 : _
