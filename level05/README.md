@@ -11,6 +11,8 @@ for i in /opt/openarenaserver/* ; do
 	rm -f "$i"
 done
 ```
+- On peut voir que le crontab execute tout les fichier se trouvant dans /opt/openarenaser/ en tant que flag05
+- Donc on crée un executable qui
 - `echo "getflag > /tmp/lol" > /opt/openarenaserver/run`
 - `cat /tmp/lol`
 ```
