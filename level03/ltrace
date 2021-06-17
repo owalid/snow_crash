@@ -1,9 +1,0 @@
-__libc_start_main(0x80484a4, 1, 0xffb88a54, 0x8048510 <unfinished ...>
-getegid()                                                                              = 1000
-geteuid()                                                                              = 1000
-setresgid(1000, 1000, 1000, 0xf7d9ad15)                                                = 0
-setresuid(1000, 1000, 1000, 0xf7d9ad15)                                                = 0
-system("/usr/bin/env echo Exploit me" <no return ...>
---- SIGCHLD (Child exited) ---
-<... system resumed> )                                                                 = 0
-+++ exited (status 0) +++
