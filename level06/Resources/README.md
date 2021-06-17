@@ -1,3 +1,5 @@
+# Level06
+
 <pre>
 #!/usr/bin/php
 <?php

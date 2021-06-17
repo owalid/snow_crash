@@ -1,11 +1,11 @@
 # Level 00
 
 - Premiere solution:
- - `cd /rofs/usr/sbin`
- - `ls -al`
- - `un fichier non executable s'appel john`
+  - `cd /rofs/usr/sbin`
+  - `ls -al`
+  - `un fichier non executable s'appel john`
 - Deuxieme solution:
- - find / -user flag00 2>&-
+  - find / -user flag00 2>&-
 - `cat john`
 ```
 cdiiddwpgswtgt

